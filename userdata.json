@@ -18,24 +18,25 @@
         "Allowoffline": false
     },
        {
-        "device_id": "59b233da063066c8",
+        "device_id": "eaf33934e0734d3d",
         "key": "mafia",
         "expirydate": "15-07-2026",
         "Allowoffline": false
     },
     
        {
-        "device_id": "56689ef62947212d",
+        "device_id": "eaf33934e0734d3d",
         "key": "Sandeep",
         "expirydate": "15-07-2026",
         "Allowoffline": false
+           
        },
     
        {
         "device_id": "a1087cfc4719fd85",
         "key": "mama",
         "expirydate": "15-07-2026",
-        "Allowoffline": false
+        "Allowoffline": true
        },
     
        {
